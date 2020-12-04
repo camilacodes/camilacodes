@@ -1,7 +1,7 @@
 # camilacodes<h1 align="center">Hi 👋, I'm Camila</h1>
 <h3 align="center">A passionate tech student</h3>
 
-- 🔭 I’m currently working on **bootcamps**
+- 🔭 I’m currently working on Everis **bootcamp**
 
 - 🌱 I’m currently learning **Javascript ES6, React and NodeJs**
 
