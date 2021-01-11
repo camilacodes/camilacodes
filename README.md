@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Camila</h1>
-<h3 align="center">A passionate tech student, I'm a Back End Developer! I'm currently working on Kinship Entertainment as an Intern.</h3>
+<h3 align="right">A passionate tech student, I'm a Back End Developer! I'm currently working on Kinship Entertainment as an Intern.</h3>
 
-<<<<<<< HEAD
+
 - I'm working on my Portfolio Website **⭐️ Camila's Portfolio**
-=======
-- 🔭 I’m currently working on Everis **bootcamp**
->>>>>>> b64135c06fb94d9b2caadeb90838b205d50e0d6d
 
 - 🌱 I’m currently learning **Javascript ES6, React, NodeJs and Typescript**
 
