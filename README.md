@@ -1,4 +1,4 @@
-[![banner](./banner.png)](https://github.com/camilacodes)
+[![banner] <img src=”C:\Users\caami\Downloads\banner”>(https://github.com/camilacodes)
 
 ## 💜 Hi there, I'm <strong>Camila!</strong> Welcome to my Github Profile
 
