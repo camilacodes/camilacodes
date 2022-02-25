@@ -27,5 +27,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilacodes&show_icons=true)
