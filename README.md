@@ -4,7 +4,7 @@
 
 🔭 I'm currently learning more about Java!
 
-💬 Send me a message on Linkedin! 
+💬 Send me a message on Linkedin! ---> Camila Figueira
 
 ----
 
