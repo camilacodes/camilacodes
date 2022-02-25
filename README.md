@@ -23,9 +23,4 @@
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 
-
-
----
-
-## ⭐
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilacodes&show_icons=true)
