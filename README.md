@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{Camila}!</strong>
+## 💜 Hi there, I'm <strong>{Camila}!</strong> Welcome to my Github Profile
 
 > I'm currently studying B.Asc in information Systems at FIAP. I had the experience working with C# in the development of the game Skydome and a few months as QA Tester! Now I’m an intern at IBM Associates program, focused on Java Back-end Development and Data Engineering ✨🧠
 
